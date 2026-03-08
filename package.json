@@ -1,0 +1,26 @@
+{
+  "name": "dex-simulator",
+  "version": "2.0.0",
+  "description": "Constant-Product DEX Simulator with Real-Time Blockchain Integration using Viem",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node src/index.js"
+  },
+  "keywords": [
+    "dex",
+    "amm",
+    "uniswap",
+    "constant-product",
+    "defi",
+    "blockchain",
+    "viem",
+    "ethereum"
+  ],
+  "author": "Kostiantyn Myroshnychenko",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "viem": "^2.21.45"
+  }
+}
